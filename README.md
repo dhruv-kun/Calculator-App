@@ -11,7 +11,7 @@ To use run this command on terminal
 
 ## Dependencies
 This app requires python3 and Kivy to function properly.
-  To install python follow instrunctions from https://www.python.org/
+  To install python follow instrunctions from https://www.python.org/.
   To install Kivy follow instructions from https://kivy.org/
 
 ## Please report issues to me
